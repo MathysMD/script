@@ -1,0 +1,12 @@
+#!/bin/bash
+nb1=1
+nb2=2
+nb3=1
+
+if [ $nb1 -eq $nb2 ]
+then 
+echo " les valeurs sont égales"
+else
+echo "les valeurs sont inégales"
+
+fi
